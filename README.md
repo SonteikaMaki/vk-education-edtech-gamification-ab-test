@@ -174,8 +174,8 @@
 **1. Клонировать репозиторий:**
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/SonteikaMaki/vk-education-edtech-gamification-ab-test.git
+cd vk-education-edtech-gamification-ab-test
 ```
 
 **2. Установить зависимости:**
